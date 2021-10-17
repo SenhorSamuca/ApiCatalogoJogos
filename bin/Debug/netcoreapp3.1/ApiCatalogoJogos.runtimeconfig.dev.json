@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Samuca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Samuca\\.nuget\\packages"
+    ]
+  }
+}
